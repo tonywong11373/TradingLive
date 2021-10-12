@@ -1,0 +1,22 @@
+{
+  "name": "testingbrowse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.1",
+    "cheerio": "^1.0.0-rc.10",
+    "http-cookie-agent": "^1.0.1",
+    "node-fetch": "^3.0.0",
+    "node-schedule": "^2.0.0",
+    "tough-cookie": "^4.0.0",
+    "webdriverio": "^7.14.1"
+  },
+  "type": "module"
+}
